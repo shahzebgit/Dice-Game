@@ -55,9 +55,9 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(./LTT.jpg);
-    background-size: contain;
-    background-position: center;
+    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(Images/LTT.jpg);
+    background-size: 100%;
+    background-position-y: -7px;
     font-family: Lato;
     font-weight: 300;
     position: relative;
